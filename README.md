@@ -1,8 +1,7 @@
----
 ## 👋 Hi there 🌍
 🚀 Backend Developer  
 🛰 Studying Computer Science
----
+
 ## 💻 Tech Stack
 ### 🎢 Languages & Platforms
 <p>
