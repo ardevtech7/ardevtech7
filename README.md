@@ -1,11 +1,9 @@
-### 👋 Hi there 🌍
-
-🚀 Backed Developer
-
+---
+## 👋 Hi there 🌍
+🚀 Backend Developer  
 🛰 Studying Computer Science
-
-
-### 💻 Tech Stack
+---
+## 💻 Tech Stack
 ### 🎢 Languages & Platforms
 <p>
     <img src="https://img.shields.io/badge/java-02303A?style=flat&logo=&logoColor=white"/>
@@ -16,6 +14,7 @@
     <img src="https://img.shields.io/badge/mysql-02303A?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-02303A?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-02303A?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kubernetes-02303A?style=flat&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### 🎡 Tools
